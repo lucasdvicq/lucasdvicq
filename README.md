@@ -5,6 +5,7 @@
 - 📫 Contate-me no email: contatodevicqlucas@gmail.com
 
 <div align="center">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=lucasdvicq&show_icons=true&theme=dark&include_all_commits=true&count_private=truegithub-readme-stats.vercel.app/api"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesskaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
